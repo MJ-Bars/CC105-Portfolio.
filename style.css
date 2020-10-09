@@ -1,0 +1,283 @@
+@font-face {
+	font-family:"Bulgatti" ;
+	src: url("font/Bulgatti.otf");
+}
+@font-face {
+	font-family: "Amsterdam";
+	src: url("font/Amsterdam.otf");
+}
+
+h3{
+	font-family: "Calling Angels Personal Use";
+	text-align: center;
+	font-size:30px;
+	color:#66ff00;
+	text-shadow: 3px 1px  black;
+}
+ul {
+	    list-style-type: none;
+	    margin:  0;
+	    padding: 0.5px;
+	    overflow: hidden;
+	}
+
+li {
+	    float: left;
+	}
+
+li a {
+	display: block;
+	color: #fffc00;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	text-shadow:  5px 2px 4px black;
+}
+li a:hover {
+	background-color: #0096ff;
+	color: white;
+}
+
+nav{
+	background: skyblue;
+	width: 100%;
+	height: 50px;
+	border: 2px solid dodgerblue;
+	background-color: #b0d1ff ;
+ }
+aside{
+	margin-top: 2px;
+	border: 2px solid dodgerblue;
+	width: 18.50%;
+	height: 2000%;
+	float: left;
+	padding: 10px;	
+	background-image: url("images/B3.gif");
+	color:#66ff00;
+	font-family:"Century Gothic";
+
+}
+main{
+	margin-top: 2px;
+	border: 2px solid dodgerblue;
+	width: 79%;
+	height: 2000% ;
+	float:right;
+	background-image: url("image/A+.jpg") ;
+	background-size: 100%;
+	color:black;
+	text-shadow: 2px 2px 20px white;
+	background-attachment: fixed;
+}
+
+body{
+	background: linear-gradient(to top left, #66e8ff, white, #66e8ff);
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	margin: 10px 10px;
+	transition: all 0.5s;
+	padding: 10px 10px;
+
+}
+
+img:hover{
+	transform: scale(1.3);
+}
+header {
+	background: linear-gradient(to top left, #66e8ff, white, #66e8ff);
+	width: 100%;
+	height: 120px;
+	border: 2px solid dodgerblue;
+	text-align: center;
+}
+p{
+	font-family: "Century Gothic";
+}
+footer{
+	width: 100%;
+	height: 60px;
+	margin-top:800px;
+	border: 2px solid dodgerblue;
+	background: linear-gradient(to top left, #66e8ff, white, #66e8ff);
+	color: blue;
+}
+#ss{
+	margin-left: 260px;
+
+}
+#Run{
+
+ font-family: Arial;
+ font-size:20px;
+ letter-spacing: 10px;
+ word-spacing: 20px;
+ color:dodgerblue;
+
+}
+hr{
+	height: 2px;
+	background-color:black;  
+}
+h2{
+	text-align:center ;
+	font-family: Bulgatti;
+	padding-top:5px ;
+}
+@font-face {
+	font-family: "Bulgatti";
+src: url("fonts/Bulgatti.otf");
+}
+@font-face {
+	font-family: "Amsterdam";
+	src: url("fonts/Amsterdam.otf");
+}
+#Mark{
+	width: 250px;
+	height:350px;
+}
+#me{
+	text-align: justify;
+	font-family: "Century Gothic";
+	color:blue;
+}
+#odong{
+	font-family: Amsterdam, "Arial Black";
+	font-size: 30px;
+	text-shadow:  5px 2px 4px dodgerblue;
+	color: blue;	
+}
+.top-info{
+	margin-bottom: 50px;
+}
+.prof-pic{
+	
+	width: 200px;
+	height: 180px;
+}
+.major-info{
+	margin :20px 20px;
+	padding-top: 10px ; 
+}
+.profile-pic{
+	margin: 20px 20px;
+	float: left;
+}
+.name{
+		font-size: 40px;
+		font-family: Bulgatti;
+		color: black;
+		text-shadow: 2px 2px 2px white;
+}
+.age{
+		font-size: 20px;
+		margin-left: 100px;
+		margin-top: -20px;
+		
+
+}
+.status{
+		font-size: 20px;
+		margin-left: 260px;
+		margin-top: -20px;
+		
+}.address{
+		font-size: 20px;
+		margin-left: 260px;
+		margin-top: -20px;
+		
+
+}.birthday{
+		font-size: 20px;
+		margin-left: 260px;
+		margin-top: -20px;
+		
+
+}.contact{
+		font-size: 20px;
+		margin-left: 260px;
+		margin-top: -20px;
+
+}
+.sibling{
+		font-size: 20px;
+		margin-left: 260px;
+		margin-top: -20px;
+}
+.siblings{
+		font-size: 20px;
+		margin-left: 345px;
+		margin-top: -20px;
+
+		
+}
+
+	
+.background{
+	margin-left: 270px ;
+	 
+}
+.add-background{
+	margin-left:10px ;
+	padding-top: -200px ;
+	margin-right: 20px;
+		
+}.elem{
+		font-size: 20px;
+		margin-top: -20px;
+		
+}
+.jr{
+		font-size: 20px;
+		margin-top: -20px;
+		
+}
+.sr{
+		font-size: 20px;
+		margin-top: -20px;
+		
+}
+#marquee{
+	font-size: 15px;
+	font-family: Amsterdam; 
+	margin-top:10px;
+}
+/*.....A.....S.....I.....D.....E..............*/
+
+#na{
+	border-radius: 500px;
+}
+#up{
+	font-family: "BLACK";
+}
+#down{
+	padding-top: -10px;
+}
+#p{
+	text-align: center;
+	padding-top: 2px;
+}
+#you{
+	color:#66ff00;
+	background-color: #0d0e16;
+	font-weight: bolder;
+	border-top: 2px solid #66ff00;
+	border-bottom:2px solid #66ff00;
+	padding-top: 10px;
+}
+#details{
+	padding-left:10px;
+	padding-right: 10px
+}
+#h2{
+	margin-left: -475px;
+	font-family: Arial;
+	padding-top:2px ;
+}
+
+
+
+
+
